@@ -8,4 +8,4 @@
 
 ## Steps
 - Cut avocados in half
-- Peel avacado
+- Mush avacado
