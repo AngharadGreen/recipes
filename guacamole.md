@@ -7,5 +7,5 @@
 - lime
 
 ## Steps
-
-- peel avacodo
+- Cut avocados in half
+- Peel avacado
