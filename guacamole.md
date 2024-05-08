@@ -7,3 +7,4 @@
 - lime
 
 ## Steps
+- Cut avocados in half
